@@ -73,8 +73,8 @@ const getIntersectionNode = function (headA, headB) {
 //     let currA = headA;
 //     //while currA has a valid ref
 //     while(currA) {
-//         currA = currA.next;
 //         set.add(currA);
+//         currA = currA.next;
 //     }
 //     //track current position in list B
 //     let currB = headB;
